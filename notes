@@ -1,0 +1,4 @@
+- able to pass options as arguments to a function
+- add ergonimic preview functionality
+  - e.g be able to specify a python entity as the input to the --preview options
+- add a decorator, used for functions that return lists of objects that implement __str__
