@@ -19,8 +19,8 @@ setup(
   long_description=read("README.md"),
   classifiers=[
     "Development Status :: 3 - Alpha",
-    "Topic :: Library",
-    "License :: OSI Approved :: CC0 License"
+    "Topic :: Software Development :: Libraries",
+    "License :: CC0 1.0 Universal (CC0 1.0) Public Domain Dedication"
   ],
   install_requires=[],
   python_requires=">= 3.9",
